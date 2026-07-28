@@ -1,6 +1,6 @@
-package org.tnsif.acc.c2tc.javabasics;
+package Manager_Rules;
 
-public class LangExample {
+public class KIA_Rules {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
