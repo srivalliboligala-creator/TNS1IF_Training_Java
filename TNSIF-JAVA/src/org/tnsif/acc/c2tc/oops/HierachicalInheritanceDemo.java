@@ -34,9 +34,3 @@ public class HierachicalInheritanceDemo {
 		
 	}
 }
-	 
-public static void main(String[] args) {
-		
-	}
-
-}
