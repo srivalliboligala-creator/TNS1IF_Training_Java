@@ -31,14 +31,14 @@ public class ThisDemo1 {
 		Person person=new Person();
 		person.setName("Hema");
 		person.setAge(26);
-		person.getName();
+		System.out.println(person.getName());
 		person.getAge();
-		person.displayDetails();
+		
 		person.setName("Tejas");
+		System.out.println(person.setName());
 		person.setAge(24);
 		person.getName();
 		person.getAge();
-		person.displayDetails();
 		
 		
 
