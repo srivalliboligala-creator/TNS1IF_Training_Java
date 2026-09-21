@@ -1,4 +1,4 @@
-package org.org.tnsif.acc.c2tc.methodoverriding_super_this_instanceof1;
+package org.tnsif.acc.c2tc.methodoverriding_super_this_instanceof1;
 
 class PaymentMethod
 {
